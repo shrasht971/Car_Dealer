@@ -84,7 +84,7 @@ const HomePage = () => {
           </p>
 
           {/* Car Reservation Form */}
-          <div className="bg-black bg-opacity-90 p-6 mt-8 rounded-lg shadow-lg w-full max-w-md">
+          <div className="bg-black bg-opacity-90 p-6 mt-8 rounded-lg shadow-lg w-full  max-w-md">
             <h3 className="text-xl font-bold mb-4 text-center">
               Continue Car Reservation
             </h3>

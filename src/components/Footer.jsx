@@ -96,12 +96,9 @@ const Footer = () => {
       <hr className="border-gray-700 my-6" />
 
       {/* Bottom Section */}
-      <div className="flex flex-col md:flex-row justify-between items-center">
-        <div className="text-sm">&copy; Your Site Name. All rights reserved.</div>
-        <div className="text-sm">
-          Designed by <a href="https://htmlcodex.com" className="hover:underline">HTML Codex</a>
-        </div>
-      </div>
+      <div className="flex flex-col md:flex-row justify-center items-center text-center ">
+  @Website
+</div>
 
       {/* Scroll to Top Button */}
       {showScroll && (

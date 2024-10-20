@@ -108,7 +108,7 @@ const Navbar = () => {
           <div className="flex space-x-4">
             <Link
               to="/login"
-              className="bg-red-600 text-white px-4 py-2 rounded-full hover:bg-red-700 transition duration-300 ease-in-out"
+              className="bg-red-600 text-white px-4 py-2 sm:px-2  rounded-full hover:bg-red-700 transition duration-300 ease-in-out"
             >
               Login
             </Link>
